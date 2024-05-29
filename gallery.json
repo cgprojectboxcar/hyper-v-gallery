@@ -1,10 +1,5 @@
-{
-
-  "$schema": "https://raw.githubusercontent.com/MicrosoftDocs/Virtualization-Documentation/live/hyperv-tools/vmgallery/vm-gallery-schema.json",
-
-  "images": [
-   ,
-        {
+{ "images": [
+     {
         "name": "Oracle Linux",
         "version": "9",
         "locale": "en-US",
@@ -53,9 +48,9 @@
             "value": "https://www.oracle.com/linux/"
           },
         ]
-      }
+    }
 ,
-{
+     {
   "name": "Solus Budgie",
   "version": "4.5",
   "locale": "en-US",
@@ -104,9 +99,9 @@
       "value": "https://getsol.us/"
     },
   ]
-}
+    }
 ,
-{
+     {
   "name": "Fedora Silverblue",
   "version": "40",
   "locale": "en-US",
@@ -155,9 +150,9 @@
       "value": "https://fedoraproject.org/atomic-desktops/silverblue"
     },
   ]
-}
+    }
 ,
-{
+     {
   "name": "Pop_OS! 19.04",
   "version": "19.04",
   "locale": "en-US",
@@ -206,9 +201,9 @@
       "value": "https://system76.com/pop"
     },
   ]
-}
+    }
 ,
-{
+     {
   "name": "Arch Linux",
   "version": "2024.05.01-x86_64",
   "locale": "en-US",
@@ -257,9 +252,9 @@
       "value": "https://www.archlinux.org/"
     },
   ]
-}
+    }
 ,
-{
+     {
   "name": "Crunchbangplusplus",
   "version": "Debian 10",
   "locale": "en-US",
@@ -310,9 +305,9 @@
       "value": "https://crunchbangplusplus.org/"
     },
   ]
-}
+    }
 ,
-        {
+     {
         "name": "Parrot OS Home",
         "version": "6",
         "locale": "en-US",
@@ -361,9 +356,9 @@
             "value": "https://www.parrotsec.org/docs/introduction/gnu-linux-basics"
           },
         ]
-      }
+    }
 ,
-{
+     {
   "name": "Qubes OS",
   "version": "4.2.1",
   "locale": "en-US",
@@ -412,8 +407,7 @@
       "value": "https://www.qubes-os.org/"
     },
   ]
-}
-,
+    }
 ]
 }
   
