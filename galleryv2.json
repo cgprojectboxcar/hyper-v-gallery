@@ -1,0 +1,413 @@
+{ "images": [
+     {
+        "name": "Oracle Linux",
+        "version": "9",
+        "locale": "en-US",
+        "publisher": "cgprojectboxcar on GitHub",
+        "lastUpdated": "2024-05-29T15:15:14Z",
+        "description": [
+        "Full DVD of Oracle Linux 8.",
+        "\r\n\r\n",
+        "https://github.com/cgprojectboxcar/hyper-v-gallery",
+        "\r\n\r\n"
+        ],
+        "config": {
+        "secureBoot": "false"
+        },
+        "requirements": {
+        "diskSpace": "28290580480"
+        },
+        "disk": {
+        "uri": "https://yum.oracle.com/ISOS/OracleLinux/OL9/u4/x86_64/OracleLinux-R9-U4-x86_64-dvd.iso",
+        "hash": "sha256:77034a4945474cb7c77820bd299cac9a557b8a298a5810c31d63ce404ad13c5e",
+        "archiveRelativePath": "OracleLinux-R9-U4-x86_64-dvd.iso"
+        },
+        "logo": {
+        "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/oracle/logo.png",
+        "hash": "sha256:3DD994C9E2BB3B6CDF3EDD0F0E939587460D3761DECD7293B8480E92452CE1E9"
+        },
+        "symbol": {
+        "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/oracle/logo.png",
+        "hash": "sha256:3DD994C9E2BB3B6CDF3EDD0F0E939587460D3761DECD7293B8480E92452CE1E9"
+        },
+        "thumbnail": {
+        "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/oracle/thumbnail.jpg",
+        "hash": "sha256:2C0C7D9DCA0D347B152EB1485DAA3366515D77ABC1880CDC513BC7B820E648AC"
+        },
+        "details": [
+        {
+            "name": "Edition",
+            "value": "9.4"
+        },
+        {
+            "name": "Copyright",
+            "value": "Copyright (c) Oracle"
+        },
+        {
+            "name": "License",
+            "value": "https://www.oracle.com/linux/"
+          },
+        ]
+    }
+,
+     {
+  "name": "Solus Budgie",
+  "version": "4.5",
+  "locale": "en-US",
+  "publisher": "cgprojectboxcar on GitHub",
+  "lastUpdated": "2024-05-29T15:00:26Z",
+  "description": [
+  "Live image of Solus Budgie",
+  "\r\n\r\n",
+  "https://github.com/cgprojectboxcar/hyper-v-gallery",
+  "\r\n\r\n"
+  ],
+  "config": {
+  "secureBoot": "false"
+  },
+  "requirements": {
+  "diskSpace": "28290580480"
+  },
+  "disk": {
+  "uri": "https://downloads.getsol.us/isos/4.5/Solus-4.5-Budgie.iso",
+  "hash": "sha256:6c8abec78f18b83e3ea7ec9eb04321aee5a75a278f39152095cf3e02c2559b0d",
+  "archiveRelativePath": "Solus-4.5-Budgie.iso"
+  },
+  "logo": {
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/solus/logo.png",
+  "hash": "sha256:F36DCB63A16B3EDA4E5350828C2FC2AEE91F4769325EAF65EB67253984F51083"
+  },
+  "symbol": {
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/solus/logo.png",
+  "hash": "sha256:F36DCB63A16B3EDA4E5350828C2FC2AEE91F4769325EAF65EB67253984F51083"
+  },
+  "thumbnail": {
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/solus/thumbnail.jpg",
+  "hash": "sha256:2978CF322F225517156CD5F2FF0B28D3E2730139838CD6C7364FAD460E13E25C"
+  },
+  "details": [
+  {
+      "name": "Edition",
+      "value": "4.5"
+  },
+  {
+      "name": "Copyright",
+      "value": "Copyright (c) Solus"
+  },
+  {
+      "name": "License",
+      "value": "https://getsol.us/"
+    },
+  ]
+    }
+,
+     {
+  "name": "Fedora Silverblue",
+  "version": "40",
+  "locale": "en-US",
+  "publisher": "cgprojectboxcar on GitHub",
+  "lastUpdated": "2024-05-29T15:00:26Z",
+  "description": [
+  "Install ISO for Fedora Team Silverblue",
+  "\r\n\r\n",
+  "https://github.com/cgprojectboxcar/hyper-v-gallery",
+  "\r\n\r\n"
+  ],
+  "config": {
+  "secureBoot": "false"
+  },
+  "requirements": {
+  "diskSpace": "28290580480"
+  },
+  "disk": {
+  "uri": "https://download.fedoraproject.org/pub/fedora/linux/releases/40/Silverblue/x86_64/iso/Fedora-Silverblue-ostree-x86_64-40-1.14.iso",
+  "hash": "sha256:8f49c9880cf0eb24e0461498d27d3d5134f056975c478f7d0febb1b9e5d1edbb",
+  "archiveRelativePath": "Fedora-Silverblue-ostree-x86_64-40-1.14.iso"
+  },
+  "logo": {
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/fedora-silverblue/logo.png",
+  "hash": "sha256:A51A5DA04FD0DBEB1ADA1261355D0B7D7BCC7A4CEB69E1BA97A601E6FAECDB60"
+  },
+  "symbol": {
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/fedora-silverblue/logo.png",
+  "hash": "sha256:A51A5DA04FD0DBEB1ADA1261355D0B7D7BCC7A4CEB69E1BA97A601E6FAECDB60"
+  },
+  "thumbnail": {
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/fedora-silverblue/thumbnail.png",
+  "hash": "sha256:A84A5FF0997BCD406837CB43749CDFFC55C1A8800E692D4F7DF7D0179A35BA9C"
+  },
+  "details": [
+  {
+      "name": "Edition",
+      "value": "40"
+  },
+  {
+      "name": "Copyright",
+      "value": "Copyright (c) Fedora Project"
+  },
+  {
+      "name": "License",
+      "value": "https://fedoraproject.org/atomic-desktops/silverblue"
+    },
+  ]
+    }
+,
+     {
+  "name": "Pop_OS! 19.04",
+  "version": "19.04",
+  "locale": "en-US",
+  "publisher": "cgprojectboxcar on GitHub",
+  "lastUpdated": "2024-05-29T15:04:41Z",
+  "description": [
+  "Desktop live image of Pop_OS! 22.04",
+  "\r\n\r\n",
+  "https://github.com/cgprojectboxcar/hyper-v-gallery",
+  "\r\n\r\n"
+  ],
+  "config": {
+  "secureBoot": "false"
+  },
+  "requirements": {
+  "diskSpace": "28290580480"
+  },
+  "disk": {
+  "uri": "https://iso.pop-os.org/22.04/amd64/intel/41/pop-os_22.04_amd64_intel_41.iso",
+  "hash": "ee55c79eafb4ada36e1fc5b1ac1d96c125f0de211fd687f2a4075df2db8b2619",
+  "archiveRelativePath": "pop-os_22.04_amd64_intel_41.iso"
+  },
+  "logo": {
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/popos/logo.png",
+  "hash": "sha256:C88FCE5334E6170C1D4085C79D9B0E4065167679A0073EED75799C71FE7C3D05"
+  },
+  "symbol": {
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/popos/logo.png",
+  "hash": "sha256:C88FCE5334E6170C1D4085C79D9B0E4065167679A0073EED75799C71FE7C3D05"
+  },
+  "thumbnail": {
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/popos/thumbnail.png",
+  "hash": "sha256:D297B3D378C21E2A7D8DF3BBFCDFFBCBFB4857EBDE64577BCEC5904AF18D7CEC"
+  },
+  "details": [
+  {
+      "name": "Edition",
+      "value": "22.04"
+  },
+  {
+      "name": "Copyright",
+      "value": "Copyright (c) System76"
+  },
+  {
+      "name": "License",
+      "value": "https://system76.com/pop"
+    },
+  ]
+    }
+,
+     {
+  "name": "Arch Linux",
+  "version": "2024.05.01-x86_64",
+  "locale": "en-US",
+  "publisher": "cgprojectboxcar on GitHub",
+  "lastUpdated": "2024-05-29T15:07:51Z",
+  "description": [
+  "Install ISO of Arch Linux",
+  "\r\n\r\n",
+  "https://github.com/cgprojectboxcar/hyper-v-gallery",
+  "\r\n\r\n"
+  ],
+  "config": {
+  "secureBoot": "false"
+  },
+  "requirements": {
+  "diskSpace": "28290580480"
+  },
+  "disk": {
+  "uri": "https://mirror.rackspace.com/archlinux/iso/2024.05.01/archlinux-2024.05.01-x86_64.iso",
+  "hash": "sha256:1b4a04ef8a7350852a13070ee498442b087a607a18840b4dd7d99867eb5f6a4c",
+  "archiveRelativePath": "archlinux-2024.05.01-x86_64.iso"
+  },
+  "logo": {
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/arch/logo.png",
+  "hash": "sha256:4FEF3CD5C0DF9898AE7AD11B4B49E378978F75885BCC6B2C8D8A07DE24BA6B49"
+  },
+  "symbol": {
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/arch/logo.png",
+  "hash": "sha256:4FEF3CD5C0DF9898AE7AD11B4B49E378978F75885BCC6B2C8D8A07DE24BA6B49"
+  },
+  "thumbnail": {
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/arch/thumbnail.png",
+  "hash": "sha256:5BD67990B18BBDECDD49EBE08F528EB27A539BCC1963E22E709F7DA6EECF5885"
+  },
+  "details": [
+  {
+      "name": "Edition",
+      "value": "2204.05.01"
+  },
+  {
+      "name": "Copyright",
+      "value": "Copyright (c) Arch"
+  },
+  {
+      "name": "License",
+      "value": "https://www.archlinux.org/"
+    },
+  ]
+    }
+,
+     {
+  "name": "Crunchbangplusplus",
+  "version": "Debian 10",
+  "locale": "en-US",
+  "publisher": "sirredbeard on GitHub",
+  "lastUpdated": "2019-08-17T23:54:33Z",
+  "description": [
+  "Live ISO of Crunchbangplusplus",
+  "\r\n\r\n",
+  "Username: root Password: root",
+  "\r\n\r\n",
+  "https://github.com/cgprojectboxcar/hyper-v-gallery",
+  "\r\n\r\n"
+  ],
+  "config": {
+  "secureBoot": "false"
+  },
+  "requirements": {
+  "diskSpace": "28290580480"
+  },
+  "disk": {
+  "uri": "https://github.com/CBPP/cbpp10-amd64/releases/download/v10.1/cbpp-10.1-amd64-20190713.iso",
+  "hash": "sha256:496091BF7EA50DC87387C3A5C0666D9A9B5DDCDF3103324B5091DB789A765851",
+  "archiveRelativePath": "cbpp-10.1-amd64-20190713.iso"
+  },
+  "logo": {
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/crunchbang/logo.png",
+  "hash": "sha256:C6FF7E3EB0D1DD1496C9F952B11E966C499CCBB9D1AF1CFDBA83E48378D48379"
+  },
+  "symbol": {
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/crunchbang/logo.png",
+  "hash": "sha256:C6FF7E3EB0D1DD1496C9F952B11E966C499CCBB9D1AF1CFDBA83E48378D48379"
+  },
+  "thumbnail": {
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/crunchbang/thumbnail.png",
+  "hash": "sha256:3B5C12F183B238ACA3759F53974DC004A779BAABB241F62958F370CB405674D5"
+  },
+  "details": [
+  {
+      "name": "Edition",
+      "value": "Debian 10"
+  },
+  {
+      "name": "Copyright",
+      "value": "Copyright (c) Crunchbangplusplus"
+  },
+  {
+      "name": "License",
+      "value": "https://crunchbangplusplus.org/"
+    },
+  ]
+    }
+,
+     {
+        "name": "Parrot OS Home",
+        "version": "6",
+        "locale": "en-US",
+        "publisher": "cgprojectboxcar on GitHub",
+        "lastUpdated": "2024-05-29T15:15:14Z",
+        "description": [
+        "Full DVD of Parrot OS Home.",
+        "\r\n\r\n",
+        "https://github.com/cgprojectboxcar/hyper-v-gallery",
+        "\r\n\r\n"
+        ],
+        "config": {
+        "secureBoot": "false"
+        },
+        "requirements": {
+        "diskSpace": "28290580480"
+        },
+        "disk": {
+        "uri": "https://deb.parrot.sh/parrot/iso/6.0/Parrot-home-6.0_amd64.iso",
+        "hash": "sha256:8330e8baedcbf24bbfdfca4fca6263e8ea9198227220441a0e6118280cdbc842",
+        "archiveRelativePath": "Parrot-home-6.0_amd64.iso"
+        },
+        "logo": {
+        "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/parrotos/logo.png",
+        "hash": "sha256:89BE27E19A8A1281180BFB6BBF996471AF0988F2F4BCB0FD5420E462C294C6E7"
+        },
+        "symbol": {
+        "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/parrotos/logo.png",
+        "hash": "sha256:89BE27E19A8A1281180BFB6BBF996471AF0988F2F4BCB0FD5420E462C294C6E7"
+        },
+        "thumbnail": {
+        "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/parrotos/thumbnail.jpg",
+        "hash": "sha256:B3B5094D3B21229F4BE477B3BB2EE71DD97241FDB2160B8162E2EA2AFC235626"
+        },
+        "details": [
+        {
+            "name": "Edition",
+            "value": "6"
+        },
+        {
+            "name": "Copyright",
+            "value": "Copyright (c) Parrot Security"
+        },
+        {
+            "name": "License",
+            "value": "https://www.parrotsec.org/docs/introduction/gnu-linux-basics"
+          },
+        ]
+    }
+,
+     {
+  "name": "Qubes OS",
+  "version": "4.2.1",
+  "locale": "en-US",
+  "publisher": "cgprojectboxcar on GitHub",
+  "lastUpdated": "2024-05-29T15:10:26Z",
+  "description": [
+  "Install ISO of Qubes OS",
+  "\r\n\r\n",
+  "https://github.com/cgprojectboxcar/hyper-v-gallery",
+  "\r\n\r\n"
+  ],
+  "config": {
+  "secureBoot": "false"
+  },
+  "requirements": {
+  "diskSpace": "28290580480"
+  },
+  "disk": {
+  "uri": "https://mirrors.edge.kernel.org/qubes/iso/Qubes-R4.2.1-x86_64.iso",
+  "hash": "sha256:a942911a3a4975831324a064f70b34c6965c4e9f6c95afbc531f04d55f947376",
+  "archiveRelativePath": "Qubes-R4.2.1-x86_64.iso"
+  },
+  "logo": {
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/qubes/logo.png",
+  "hash": "sha256:DE8116E0C35BC4F77050AC91D28394DC560C2C54329482D06FDAC06BF17B7361"
+  },
+  "symbol": {
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/qubes/logo.png",
+  "hash": "sha256:DE8116E0C35BC4F77050AC91D28394DC560C2C54329482D06FDAC06BF17B7361"
+  },
+  "thumbnail": {
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/qubes/thumbnail.png",
+  "hash": "sha256:27DCE777BF6E5EFD19FD3E111E05321EE7D61ED61232915F6B575C96A6B37B00"
+  },
+  "details": [
+  {
+      "name": "Edition",
+      "value": "4.2.1"
+  },
+  {
+      "name": "Copyright",
+      "value": "Copyright (c) Qubes OS"
+  },
+  {
+      "name": "License",
+      "value": "https://www.qubes-os.org/"
+    },
+  ]
+    }
+]
+}
+  
