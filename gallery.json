@@ -312,6 +312,57 @@
   ]
 }
 ,
+        {
+        "name": "Parrot OS Home",
+        "version": "9",
+        "locale": "en-US",
+        "publisher": "cgprojectboxcar on GitHub",
+        "lastUpdated": "2024-05-29T15:15:14Z",
+        "description": [
+        "Full DVD of Parrot OS Home.",
+        "\r\n\r\n",
+        "https://github.com/cgprojectboxcar/hyper-v-gallery",
+        "\r\n\r\n"
+        ],
+        "config": {
+        "secureBoot": "false"
+        },
+        "requirements": {
+        "diskSpace": "28290580480"
+        },
+        "disk": {
+        "uri": "https://deb.parrot.sh/parrot/iso/6.0/Parrot-home-6.0_amd64.iso",
+        "hash": "sha256:8330e8baedcbf24bbfdfca4fca6263e8ea9198227220441a0e6118280cdbc842",
+        "archiveRelativePath": "Parrot-home-6.0_amd64.iso"
+        },
+        "logo": {
+        "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/parrotos/logo.png",
+        "hash": "sha256:3DD994C9E2BB3B6CDF3EDD0F0E939587460D3761DECD7293B8480E92452CE1E9"
+        },
+        "symbol": {
+        "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/parrotos/logo.png",
+        "hash": "sha256:3DD994C9E2BB3B6CDF3EDD0F0E939587460D3761DECD7293B8480E92452CE1E9"
+        },
+        "thumbnail": {
+        "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/oracle/thumbnail.jpg",
+        "hash": "sha256:2C0C7D9DCA0D347B152EB1485DAA3366515D77ABC1880CDC513BC7B820E648AC"
+        },
+        "details": [
+        {
+            "name": "Edition",
+            "value": "9.4"
+        },
+        {
+            "name": "Copyright",
+            "value": "Copyright (c) Oracle"
+        },
+        {
+            "name": "License",
+            "value": "https://www.oracle.com/linux/"
+          },
+        ]
+      }
+,
 {
   "name": "Qubes OS",
   "version": "4.2.1",
