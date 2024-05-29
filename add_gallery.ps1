@@ -26,7 +26,7 @@ Write-Verbose "Writing new GalleryLocations."
 
 $newValue = New-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Virtualization\"  `
     -Name 'GalleryLocations' -PropertyType MultiString -Value (
-    'https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/gallery.json',
+    'https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/gallery.json',
     'https://go.microsoft.com/fwlink/?linkid=851584')
 $newValue.multistring
 

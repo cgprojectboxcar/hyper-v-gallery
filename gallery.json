@@ -23,15 +23,15 @@
         "archiveRelativePath": "OracleLinux-R9-U4-x86_64-dvd.iso"
         },
         "logo": {
-        "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/oracle/logo.png",
+        "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/oracle/logo.png",
         "hash": "sha256:3DD994C9E2BB3B6CDF3EDD0F0E939587460D3761DECD7293B8480E92452CE1E9"
         },
         "symbol": {
-        "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/oracle/logo.png",
+        "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/oracle/logo.png",
         "hash": "sha256:3DD994C9E2BB3B6CDF3EDD0F0E939587460D3761DECD7293B8480E92452CE1E9"
         },
         "thumbnail": {
-        "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/oracle/thumbnail.jpg",
+        "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/oracle/thumbnail.jpg",
         "hash": "sha256:2C0C7D9DCA0D347B152EB1485DAA3366515D77ABC1880CDC513BC7B820E648AC"
         },
         "details": [
@@ -74,15 +74,15 @@
   "archiveRelativePath": "Solus-4.5-Budgie.iso"
   },
   "logo": {
-  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/solus/logo.png",
+  "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/solus/logo.png",
   "hash": "sha256:F36DCB63A16B3EDA4E5350828C2FC2AEE91F4769325EAF65EB67253984F51083"
   },
   "symbol": {
-  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/solus/logo.png",
+  "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/solus/logo.png",
   "hash": "sha256:F36DCB63A16B3EDA4E5350828C2FC2AEE91F4769325EAF65EB67253984F51083"
   },
   "thumbnail": {
-  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/solus/thumbnail.jpg",
+  "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/solus/thumbnail.jpg",
   "hash": "sha256:2978CF322F225517156CD5F2FF0B28D3E2730139838CD6C7364FAD460E13E25C"
   },
   "details": [
@@ -125,15 +125,15 @@
   "archiveRelativePath": "Fedora-Silverblue-ostree-x86_64-40-1.14.iso"
   },
   "logo": {
-  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/fedora-silverblue/logo.png",
+  "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/fedora-silverblue/logo.png",
   "hash": "sha256:A51A5DA04FD0DBEB1ADA1261355D0B7D7BCC7A4CEB69E1BA97A601E6FAECDB60"
   },
   "symbol": {
-  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/fedora-silverblue/logo.png",
+  "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/fedora-silverblue/logo.png",
   "hash": "sha256:A51A5DA04FD0DBEB1ADA1261355D0B7D7BCC7A4CEB69E1BA97A601E6FAECDB60"
   },
   "thumbnail": {
-  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/fedora-silverblue/thumbnail.png",
+  "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/fedora-silverblue/thumbnail.png",
   "hash": "sha256:A84A5FF0997BCD406837CB43749CDFFC55C1A8800E692D4F7DF7D0179A35BA9C"
   },
   "details": [
@@ -176,15 +176,15 @@
   "archiveRelativePath": "pop-os_22.04_amd64_intel_41.iso"
   },
   "logo": {
-  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/popos/logo.png",
+  "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/popos/logo.png",
   "hash": "sha256:C88FCE5334E6170C1D4085C79D9B0E4065167679A0073EED75799C71FE7C3D05"
   },
   "symbol": {
-  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/popos/logo.png",
+  "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/popos/logo.png",
   "hash": "sha256:C88FCE5334E6170C1D4085C79D9B0E4065167679A0073EED75799C71FE7C3D05"
   },
   "thumbnail": {
-  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/popos/thumbnail.png",
+  "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/popos/thumbnail.png",
   "hash": "sha256:D297B3D378C21E2A7D8DF3BBFCDFFBCBFB4857EBDE64577BCEC5904AF18D7CEC"
   },
   "details": [
@@ -227,15 +227,15 @@
   "archiveRelativePath": "archlinux-2024.05.01-x86_64.iso"
   },
   "logo": {
-  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/arch/logo.png",
+  "uri": "https://raw.githubusercontent.com/cgprojectboxcar/hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/arch/logo.png",
   "hash": "sha256:4FEF3CD5C0DF9898AE7AD11B4B49E378978F75885BCC6B2C8D8A07DE24BA6B49"
   },
   "symbol": {
-  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/arch/logo.png",
+  "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/arch/logo.png",
   "hash": "sha256:4FEF3CD5C0DF9898AE7AD11B4B49E378978F75885BCC6B2C8D8A07DE24BA6B49"
   },
   "thumbnail": {
-  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/arch/thumbnail.png",
+  "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/arch/thumbnail.png",
   "hash": "sha256:5BD67990B18BBDECDD49EBE08F528EB27A539BCC1963E22E709F7DA6EECF5885"
   },
   "details": [
@@ -280,15 +280,15 @@
   "archiveRelativePath": "cbpp-10.1-amd64-20190713.iso"
   },
   "logo": {
-  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/crunchbang/logo.png",
+  "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/crunchbang/logo.png",
   "hash": "sha256:C6FF7E3EB0D1DD1496C9F952B11E966C499CCBB9D1AF1CFDBA83E48378D48379"
   },
   "symbol": {
-  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/crunchbang/logo.png",
+  "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/crunchbang/logo.png",
   "hash": "sha256:C6FF7E3EB0D1DD1496C9F952B11E966C499CCBB9D1AF1CFDBA83E48378D48379"
   },
   "thumbnail": {
-  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/crunchbang/thumbnail.png",
+  "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/crunchbang/thumbnail.png",
   "hash": "sha256:3B5C12F183B238ACA3759F53974DC004A779BAABB241F62958F370CB405674D5"
   },
   "details": [
@@ -331,15 +331,15 @@
         "archiveRelativePath": "Parrot-home-6.0_amd64.iso"
         },
         "logo": {
-        "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/parrotos/logo.png",
+        "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/parrotos/logo.png",
         "hash": "sha256:89BE27E19A8A1281180BFB6BBF996471AF0988F2F4BCB0FD5420E462C294C6E7"
         },
         "symbol": {
-        "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/parrotos/logo.png",
+        "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/parrotos/logo.png",
         "hash": "sha256:89BE27E19A8A1281180BFB6BBF996471AF0988F2F4BCB0FD5420E462C294C6E7"
         },
         "thumbnail": {
-        "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/parrotos/thumbnail.jpg",
+        "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/parrotos/thumbnail.jpg",
         "hash": "sha256:B3B5094D3B21229F4BE477B3BB2EE71DD97241FDB2160B8162E2EA2AFC235626"
         },
         "details": [
@@ -382,15 +382,15 @@
   "archiveRelativePath": "Qubes-R4.2.1-x86_64.iso"
   },
   "logo": {
-  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/qubes/logo.png",
+  "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/qubes/logo.png",
   "hash": "sha256:DE8116E0C35BC4F77050AC91D28394DC560C2C54329482D06FDAC06BF17B7361"
   },
   "symbol": {
-  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/qubes/logo.png",
+  "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/qubes/logo.png",
   "hash": "sha256:DE8116E0C35BC4F77050AC91D28394DC560C2C54329482D06FDAC06BF17B7361"
   },
   "thumbnail": {
-  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/tree/master/distros/qubes/thumbnail.png",
+  "uri": "https://github.com/cgprojectboxcar//hyper-v-gallery/6bb734991bbb88f6a201b690c5c7482a15f6f6e7/distros/qubes/thumbnail.png",
   "hash": "sha256:27DCE777BF6E5EFD19FD3E111E05321EE7D61ED61232915F6B575C96A6B37B00"
   },
   "details": [
