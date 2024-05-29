@@ -3,109 +3,8 @@
   "$schema": "https://raw.githubusercontent.com/MicrosoftDocs/Virtualization-Documentation/live/hyperv-tools/vmgallery/vm-gallery-schema.json",
 
   "images": [
-    {
-      "name": "Q4OS",
-      "version": "Q4OS Centaurus (Trinity)",
-      "locale": "en-US",
-      "publisher": "sirredbeard on GitHub",
-      "lastUpdated": "2019-08-15T18:25:59Z",
-      "description": [
-        "Live image of Q4OS Centaurus (Trinity Desktop Edition)",
-        "\r\n\r\n",
-        "https://github.com/sirredbeard/hyper-v-gallery",
-        "\r\n\r\n"
-      ],
-      "config": {
-        "secureBoot": "false"
-      },
-      "requirements": {
-        "diskSpace": "28290580480"
-      },
-      "disk": {
-        "uri": "https://newcontinuum.dl.sourceforge.net/project/q4os/stable/q4os-3.8-x64-tde.r4.iso",
-        "hash": "sha256:0DB58836C7F67218A3CE717282DEC1D7B0C28877ACC3AC12242E0813D12BE740",
-        "archiveRelativePath": "q4os-3.8-x64-tde.r4.iso"
-      },
-      "logo": {
-        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/q4os/logo.jpg",
-        "hash": "sha256:22D01B82AE1B1178906825DF1368F88FCCB608D65AA4375C2C2E1461272648B3"
-      },
-      "symbol": {
-        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/q4os/logo.jpg",
-        "hash": "sha256:22D01B82AE1B1178906825DF1368F88FCCB608D65AA4375C2C2E1461272648B3"
-      },
-      "thumbnail": {
-        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/q4os/thumbnail.jpg",
-        "hash": "sha256:5CDCDB180C28690467C45BCE08494CC3C50B4D33E03256A6721D945FD06B2641"
-      },
-      "details": [
+   ,
         {
-          "name": "Edition",
-          "value": "Q4OS Centaurus (Trinity)"
-        },
-        {
-          "name": "Copyright",
-          "value": "Copyright (c) Q4OS"
-        },
-        {
-          "name": "License",
-          "value": "https://www.q4os.org/"
-        },
-      ]
-    }
-,
-     {
-      "name": "Scientific Linux 7.6",
-      "version": "7.6",
-      "locale": "en-US",
-      "publisher": "sirredbeard on GitHub",
-      "lastUpdated": "2019-08-15T20:35:11Z",
-      "description": [
-      "Live image of Scientific Linux 7.6.",
-      "\r\n\r\n",
-      "https://github.com/sirredbeard/hyper-v-gallery",
-      "\r\n\r\n"
-      ],
-      "config": {
-      "secureBoot": "false"
-      },
-      "requirements": {
-      "diskSpace": "28290580480"
-      },
-      "disk": {
-      "uri": "http://www.gtlib.gatech.edu/pub/scientific/livecd/7/x86_64/SL-76-x86_64-2018-12-09-LiveDVDgnome.iso",
-      "hash": "sha256:a63c66570206e4cf48af9502768aff978a6497793187d20a9b61c2efdfa6854d",
-      "archiveRelativePath": "SL-76-x86_64-2018-12-09-LiveDVDgnome.iso"
-      },
-      "logo": {
-      "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/sl/logo.png",
-      "hash": "sha256:57ED888E3B55608AFE75F7579AE17EF76E6096053428419F56A2FF4C7F19D9E9"
-      },
-      "symbol": {
-      "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/sl/logo.png",
-      "hash": "sha256:57ED888E3B55608AFE75F7579AE17EF76E6096053428419F56A2FF4C7F19D9E9"
-      },
-      "thumbnail": {
-      "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/sl/thumbnail.jpg",
-      "hash": "sha256:FCF0FC69208072C2E9798FE1E5071C8A09426BDFC4C24682C49482E9F919D701"
-      },
-      "details": [
-      {
-          "name": "Edition",
-          "value": "7.6"
-      },
-      {
-          "name": "Copyright",
-          "value": "Copyright (c) Scientific Linux"
-      },
-      {
-          "name": "License",
-          "value": "https://www.scientificlinux.org/"
-        },
-      ]
-    }
-,
-     {
         "name": "Oracle Linux",
         "version": "8",
         "locale": "en-US",
@@ -114,7 +13,7 @@
         "description": [
         "Full DVD of Oracle Linux 8.",
         "\r\n\r\n",
-        "https://github.com/sirredbeard/hyper-v-gallery",
+        "https://github.com/cgprojectboxcar/hyper-v-gallery",
         "\r\n\r\n"
         ],
         "config": {
@@ -129,15 +28,15 @@
         "archiveRelativePath": "OracleLinux-R8-U0-x86_64-dvd.iso"
         },
         "logo": {
-        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/oracle/logo.png",
+        "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/oracle/logo.png",
         "hash": "sha256:3DD994C9E2BB3B6CDF3EDD0F0E939587460D3761DECD7293B8480E92452CE1E9"
         },
         "symbol": {
-        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/oracle/logo.png",
+        "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/oracle/logo.png",
         "hash": "sha256:3DD994C9E2BB3B6CDF3EDD0F0E939587460D3761DECD7293B8480E92452CE1E9"
         },
         "thumbnail": {
-        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/oracle/thumbnail.jpg",
+        "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/oracle/thumbnail.jpg",
         "hash": "sha256:2C0C7D9DCA0D347B152EB1485DAA3366515D77ABC1880CDC513BC7B820E648AC"
         },
         "details": [
@@ -165,7 +64,7 @@
   "description": [
   "Live image of GhostBSD 19.04",
   "\r\n\r\n",
-  "https://github.com/sirredbeard/hyper-v-gallery",
+  "https://github.com/cgprojectboxcar/hyper-v-gallery",
   "\r\n\r\n"
   ],
   "config": {
@@ -180,15 +79,15 @@
   "archiveRelativePath": "GhostBSD19.04.iso"
   },
   "logo": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/ghostbsd/logo.jpg",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/ghostbsd/logo.jpg",
   "hash": "sha256:6E9D1F8AC4F20592C77F68BF90B32E2E9535D8E877A9400AC40AB988CDCBBB87"
   },
   "symbol": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/ghostbsd/logo.jpg",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/ghostbsd/logo.jpg",
   "hash": "sha256:6E9D1F8AC4F20592C77F68BF90B32E2E9535D8E877A9400AC40AB988CDCBBB87"
   },
   "thumbnail": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/ghostbsd/thumbnail.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/ghostbsd/thumbnail.png",
   "hash": "sha256:5F6D1C4996D61AF17E8004624C6709F4E4DF610F9E1FD5ECC769D7A57BB019C8"
   },
   "details": [
@@ -209,14 +108,14 @@
 ,
 {
   "name": "Solus Budgie",
-  "version": "4.0",
+  "version": "4.5",
   "locale": "en-US",
-  "publisher": "sirredbeard on GitHub",
+  "publisher": "cgprojectboxcar on GitHub",
   "lastUpdated": "2019-08-15T20:35:11Z",
   "description": [
   "Live image of Solus Budgie",
   "\r\n\r\n",
-  "https://github.com/sirredbeard/hyper-v-gallery",
+  "https://github.com/cgprojectboxcar/hyper-v-gallery",
   "\r\n\r\n"
   ],
   "config": {
@@ -226,26 +125,26 @@
   "diskSpace": "28290580480"
   },
   "disk": {
-  "uri": "http://us.justin.id.au/iso/images/4.0/Solus-4.0-Budgie.iso",
-  "hash": "sha256:e67c3b7644c97937a0b681883e519a78ea4f62b304d236b28f06536ba1dcdbd6",
-  "archiveRelativePath": "Solus-4.0-Budgie.iso"
+  "uri": "https://downloads.getsol.us/isos/4.5/Solus-4.5-Budgie.iso",
+  "hash": "sha256:6c8abec78f18b83e3ea7ec9eb04321aee5a75a278f39152095cf3e02c2559b0d",
+  "archiveRelativePath": "Solus-4.5-Budgie.iso"
   },
   "logo": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/solus/logo.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/solus/logo.png",
   "hash": "sha256:F36DCB63A16B3EDA4E5350828C2FC2AEE91F4769325EAF65EB67253984F51083"
   },
   "symbol": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/solus/logo.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/solus/logo.png",
   "hash": "sha256:F36DCB63A16B3EDA4E5350828C2FC2AEE91F4769325EAF65EB67253984F51083"
   },
   "thumbnail": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/solus/thumbnail.jpg",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/solus/thumbnail.jpg",
   "hash": "sha256:2978CF322F225517156CD5F2FF0B28D3E2730139838CD6C7364FAD460E13E25C"
   },
   "details": [
   {
       "name": "Edition",
-      "value": "4.0"
+      "value": "4.5"
   },
   {
       "name": "Copyright",
@@ -259,15 +158,15 @@
 }
 ,
 {
-  "name": "Fedora Silverblue",
-  "version": "30",
+  "name": "Fedora Workstation",
+  "version": "40",
   "locale": "en-US",
-  "publisher": "sirredbeard on GitHub",
+  "publisher": "cgprojectboxcar on GitHub",
   "lastUpdated": "2019-08-15T20:35:11Z",
   "description": [
   "Install ISO for Fedora Team Silverblue",
   "\r\n\r\n",
-  "https://github.com/sirredbeard/hyper-v-gallery",
+  "https://github.com/cgprojectboxcar/hyper-v-gallery",
   "\r\n\r\n"
   ],
   "config": {
@@ -277,20 +176,20 @@
   "diskSpace": "28290580480"
   },
   "disk": {
-  "uri": "http://mirror.math.princeton.edu/pub/fedora/linux/releases/30/Silverblue/x86_64/iso/Fedora-Silverblue-ostree-x86_64-30-1.2.iso",
-  "hash": "sha256:d00e9a77623faa5504537d63e4d4a1767dcd3e162fdfdced7ebc6cb1aac14936",
-  "archiveRelativePath": "Fedora-Silverblue-ostree-x86_64-30-1.2.iso"
+  "uri": "https://download.fedoraproject.org/pub/fedora/linux/releases/40/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-40-1.14.iso",
+  "hash": "sha256:dd1faca950d1a8c3d169adf2df4c3644ebb62f8aac04c401f2393e521395d613",
+  "archiveRelativePath": "Fedora-Workstation-Live-x86_64-40-1.14.iso"
   },
   "logo": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/fedora-silverblue/logo.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/fedora-silverblue/logo.png",
   "hash": "sha256:A51A5DA04FD0DBEB1ADA1261355D0B7D7BCC7A4CEB69E1BA97A601E6FAECDB60"
   },
   "symbol": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/fedora-silverblue/logo.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/fedora-silverblue/logo.png",
   "hash": "sha256:A51A5DA04FD0DBEB1ADA1261355D0B7D7BCC7A4CEB69E1BA97A601E6FAECDB60"
   },
   "thumbnail": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/fedora-silverblue/thumbnail.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/fedora-silverblue/thumbnail.png",
   "hash": "sha256:A84A5FF0997BCD406837CB43749CDFFC55C1A8800E692D4F7DF7D0179A35BA9C"
   },
   "details": [
@@ -318,7 +217,7 @@
   "description": [
   "Desktop live image of Devuan Ascii",
   "\r\n\r\n",
-  "https://github.com/sirredbeard/hyper-v-gallery",
+  "https://github.com/cgprojectboxcar/hyper-v-gallery",
   "\r\n\r\n"
   ],
   "config": {
@@ -333,15 +232,15 @@
   "archiveRelativePath": "devuan_ascii_2.0.0_amd64_desktop-live.iso"
   },
   "logo": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/devuan-ascii/logo.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/devuan-ascii/logo.png",
   "hash": "sha256:A3C208836FBE944B1B2AB6C8674202849396F8F1D2E2000E8D2D001A6B7E4AC8"
   },
   "symbol": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/devuan-ascii/logo.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/devuan-ascii/logo.png",
   "hash": "sha256:A3C208836FBE944B1B2AB6C8674202849396F8F1D2E2000E8D2D001A6B7E4AC8"
   },
   "thumbnail": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/devuan-ascii/thumbnail.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/devuan-ascii/thumbnail.png",
   "hash": "sha256:C9BE48D54E02F68BA36B0500C3DAC2103E02D571657E48FD4C43C31F62475DB2"
   },
   "details": [
@@ -369,7 +268,7 @@
   "description": [
   "Desktop live image of Pop_OS! 19.04",
   "\r\n\r\n",
-  "https://github.com/sirredbeard/hyper-v-gallery",
+  "https://github.com/cgprojectboxcar/hyper-v-gallery",
   "\r\n\r\n"
   ],
   "config": {
@@ -384,15 +283,15 @@
   "archiveRelativePath": "pop-os_19.04_amd64_intel_10.iso"
   },
   "logo": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/popos/logo.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/popos/logo.png",
   "hash": "sha256:C88FCE5334E6170C1D4085C79D9B0E4065167679A0073EED75799C71FE7C3D05"
   },
   "symbol": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/popos/logo.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/popos/logo.png",
   "hash": "sha256:C88FCE5334E6170C1D4085C79D9B0E4065167679A0073EED75799C71FE7C3D05"
   },
   "thumbnail": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/popos/thumbnail.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/popos/thumbnail.png",
   "hash": "sha256:D297B3D378C21E2A7D8DF3BBFCDFFBCBFB4857EBDE64577BCEC5904AF18D7CEC"
   },
   "details": [
@@ -420,7 +319,7 @@
   "description": [
   "Install ISO of Arch Linux",
   "\r\n\r\n",
-  "https://github.com/sirredbeard/hyper-v-gallery",
+  "https://github.com/cgprojectboxcar/hyper-v-gallery",
   "\r\n\r\n"
   ],
   "config": {
@@ -435,15 +334,15 @@
   "archiveRelativePath": "archlinux-2019.08.01-x86_64.iso"
   },
   "logo": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/arch/logo.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/arch/logo.png",
   "hash": "sha256:4FEF3CD5C0DF9898AE7AD11B4B49E378978F75885BCC6B2C8D8A07DE24BA6B49"
   },
   "symbol": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/arch/logo.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/arch/logo.png",
   "hash": "sha256:4FEF3CD5C0DF9898AE7AD11B4B49E378978F75885BCC6B2C8D8A07DE24BA6B49"
   },
   "thumbnail": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/arch/thumbnail.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/arch/thumbnail.png",
   "hash": "sha256:5BD67990B18BBDECDD49EBE08F528EB27A539BCC1963E22E709F7DA6EECF5885"
   },
   "details": [
@@ -473,7 +372,7 @@
   "\r\n\r\n",
   "Username: root Password: root",
   "\r\n\r\n",
-  "https://github.com/sirredbeard/hyper-v-gallery",
+  "https://github.com/cgprojectboxcar/hyper-v-gallery",
   "\r\n\r\n"
   ],
   "config": {
@@ -488,15 +387,15 @@
   "archiveRelativePath": "cbpp-10.1-amd64-20190713.iso"
   },
   "logo": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/crunchbang/logo.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/crunchbang/logo.png",
   "hash": "sha256:C6FF7E3EB0D1DD1496C9F952B11E966C499CCBB9D1AF1CFDBA83E48378D48379"
   },
   "symbol": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/crunchbang/logo.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/crunchbang/logo.png",
   "hash": "sha256:C6FF7E3EB0D1DD1496C9F952B11E966C499CCBB9D1AF1CFDBA83E48378D48379"
   },
   "thumbnail": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/crunchbang/thumbnail.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/crunchbang/thumbnail.png",
   "hash": "sha256:3B5C12F183B238ACA3759F53974DC004A779BAABB241F62958F370CB405674D5"
   },
   "details": [
@@ -524,7 +423,7 @@
   "description": [
   "Install ISO of Qubes OS",
   "\r\n\r\n",
-  "https://github.com/sirredbeard/hyper-v-gallery",
+  "https://github.com/cgprojectboxcar/hyper-v-gallery",
   "\r\n\r\n"
   ],
   "config": {
@@ -539,15 +438,15 @@
   "archiveRelativePath": "Qubes-R4.0.1-x86_64.iso"
   },
   "logo": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/qubes/logo.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/qubes/logo.png",
   "hash": "sha256:DE8116E0C35BC4F77050AC91D28394DC560C2C54329482D06FDAC06BF17B7361"
   },
   "symbol": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/qubes/logo.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/qubes/logo.png",
   "hash": "sha256:DE8116E0C35BC4F77050AC91D28394DC560C2C54329482D06FDAC06BF17B7361"
   },
   "thumbnail": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/qubes/thumbnail.png",
+  "uri": "https://github.com/cgprojectboxcar/hyper-v-gallery/master/distros/qubes/thumbnail.png",
   "hash": "sha256:27DCE777BF6E5EFD19FD3E111E05321EE7D61ED61232915F6B575C96A6B37B00"
   },
   "details": [
